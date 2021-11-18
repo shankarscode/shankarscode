@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shankarscode
+- 👀 I’m interested in Asp.Net MVC, Asp.Net Core, Angular, Javascript, SQL Server, MySql and Oracle Projects 
+- 🌱 I’m currently learning React and Python
+- 💞️ I’m looking to collaborate on sp.Net MVC, Asp.Net Core, Angular & SQL Serve
+- 📫 How to reach me ... mail me at shankarscode@gmail.com
